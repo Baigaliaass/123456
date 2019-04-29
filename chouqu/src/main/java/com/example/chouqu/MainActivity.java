@@ -113,7 +113,7 @@ public class MainActivity extends BaseActivity<MainV, MainP> implements MainV, N
         mDl.addDrawerListener(toggle);
         toggle.syncState();
     }
-
+//123123
     //tab栏
     @Override
     protected void initData() {
